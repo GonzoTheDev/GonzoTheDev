@@ -1,5 +1,5 @@
 ### Hey, I'm Shane! <img src="https://raw.githubusercontent.com/GonzoTheDev/ShaneWilson/main/wave.gif" width="20px">
-A Software Engineer from Ireland 🍀.
+A DevOps Engineer from Ireland 🍀.
 <hr>
 
 ### Technologies & Tools 🔧

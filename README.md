@@ -12,6 +12,7 @@ A DevOps Engineer from Ireland 🍀.
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=AmazonAWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=2bbc8a)

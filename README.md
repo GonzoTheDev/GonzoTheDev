@@ -21,7 +21,7 @@ A cloud/devops/software engineer from Ireland 🍀.
 
 ### Socials 📣
 
-[![Linkedin Badge](https://img.shields.io/badge/-shanebuckleydublin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shane-buckley-dublin/)](https://www.linkedin.com/in/shane-buckley-dublin/) [![Medium Badge](https://img.shields.io/badge/-@gonzosoftware0-white?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gonzosoftware0/)](https://medium.com/@gonzosoftware0)
+[![Linkedin Badge](https://img.shields.io/badge/-shanebuckleydublin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shane-buckley-dublin/)](https://www.linkedin.com/in/shane-buckley-dublin/) 
 [![Gmail Badge](https://img.shields.io/badge/-contact@shanebuckley.ie-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gonzosoftware0@gmail.com)](mailto:contact@shanebuckley.ie)
 
 <!--

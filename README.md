@@ -21,11 +21,11 @@ A cloud/devops/software engineer from Ireland 🍀.
 
 ### Socials 📣
 
-[![Linkedin Badge](https://img.shields.io/badge/-shanewilsondublin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shane-wilson-dublin/)](https://www.linkedin.com/in/shane-wilson-dublin/) [![Medium Badge](https://img.shields.io/badge/-@gonzosoftware0-white?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gonzosoftware0/)](https://medium.com/@gonzosoftware0)
-[![Gmail Badge](https://img.shields.io/badge/-gonzosoftware0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gonzosoftware0@gmail.com)](mailto:gonzosoftware0@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-shanebuckleydublin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shane-buckley-dublin/)](https://www.linkedin.com/in/shane-buckley-dublin/) [![Medium Badge](https://img.shields.io/badge/-@gonzosoftware0-white?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gonzosoftware0/)](https://medium.com/@gonzosoftware0)
+[![Gmail Badge](https://img.shields.io/badge/-contact@shanebuckley.ie-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gonzosoftware0@gmail.com)](mailto:contact@shanebuckley.ie)
 
 <!--
-**GonzoTheDev/ShaneWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GonzoTheDev/ShaneBuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

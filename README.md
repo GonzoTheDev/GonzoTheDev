@@ -1,5 +1,5 @@
 ### Hey, I'm Shane! <img src="https://raw.githubusercontent.com/GonzoTheDev/ShaneWilson/main/wave.gif" width="20px">
-A computer science graduate from Ireland 🍀.
+A cloud/devops/software engineer from Ireland 🍀.
 <hr>
 
 ### Technologies & Tools 🔧
